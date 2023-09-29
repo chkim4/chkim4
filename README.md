@@ -16,6 +16,3 @@
 ## 자주 사용하는 언어
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chkim4)](https://github.com/chkim4/github-readme-stats) 
 
-## 기여도
-![기여도](https://ghchart.rshah.org/chkim4)
-
