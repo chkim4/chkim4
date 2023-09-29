@@ -10,9 +10,6 @@
 ![Python 3](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 --- 
 
-## 주요 프로젝트
-
-
 ## 자주 사용하는 언어
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chkim4)](https://github.com/chkim4/github-readme-stats) 
 
